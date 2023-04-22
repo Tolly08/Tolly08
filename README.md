@@ -1,6 +1,6 @@
 - 👋 Hi there
-- 👋 I am a Data and a Business Analyst
-- I'm interested in Data and Business Analytics
+- 👋 I am a Data and Business Analyst
+- I'm interested in Data, financial and Business Analytics
 - 🔭 I’m currently use SQL, Excel and Business Intelligence tools like Tableau and Power BI for data querying, visualization and manipulation
-- 👯 I am available for Data Analytics and business intelligence roles.
+- 👯 I am available for Data Analytics and business intelligent roles.
 - 📫 How to reach me: Linkedin@oluwadare tolulope, email; tolulopeoluwadare9@gmail.com
